@@ -1,2 +1,2 @@
-# MBIcontinuos
-Continuos MBI
+# Updated instructions
+Continuos MBI . Please see file below
